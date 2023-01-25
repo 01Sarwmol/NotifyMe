@@ -1,0 +1,4 @@
+notiffi is software programme which is work as reminder.
+it works on module plyer and time.
+developed date : 04 Oct 2022
+modified date :
